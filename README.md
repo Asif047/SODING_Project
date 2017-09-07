@@ -13,7 +13,7 @@ This project is basically a task management project. In home page, user can find
 
 ![a](https://user-images.githubusercontent.com/13853907/30176793-7c86a05a-9425-11e7-8d15-1a83f49047e5.PNG)
 
-![b](https://user-images.githubusercontent.com/13853907/30176900-d60ba404-9425-11e7-999f-be4d34d61513.PNG)
+![b](https://user-images.githubusercontent.com/13853907/30178170-d7f92b34-9429-11e7-8817-468722f08a02.PNG)
 
 ![c](https://user-images.githubusercontent.com/13853907/30176925-ed9723be-9425-11e7-8162-662c7311db34.PNG)
 
