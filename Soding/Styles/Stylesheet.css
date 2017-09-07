@@ -1,0 +1,181 @@
+body
+{
+    font-family: "Lucida Calligraphy";
+    background-image:url(../images/background3.jpg) ;
+}
+
+body h1
+{
+    margin-top: 0px;
+    font-size: 1.6em;
+    line-height: 1.28;
+    color: red;
+}
+
+
+
+body p
+{
+    font-size: 1.3em;
+    line-height: 1.18;
+    margin-left: 0px;
+    margin-right: 50px;
+    border:10px;
+    padding:10px;
+    color: white;
+    text-align: justify;
+}
+
+
+#a1
+{
+    font-family: "Chiller";
+    font-size: 1.5em;
+    line-height: 1.28;
+    margin-left: 50px;
+    margin-right: 50px;
+    border:10px;
+    padding:10px;
+    color:#0066FF;
+}
+
+#wrapper
+{
+    width: 950px;
+    background-image: url(../images/background2.jpg);
+    margin: 0 auto;
+    padding: 10px;
+    border: 5px solid #dedede;
+    
+    
+}
+
+#banner
+{
+    background-image: url(../images/header2.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid #dedede;    
+    height: 150px;
+   
+}
+
+#content_area
+{
+    float: center;
+    width: 950px;
+    margin: 20px 20 20px 20;
+    padding: 20px;
+}
+
+
+
+footer
+{
+ 
+     font-family: "Lucida Calligraphy";
+    
+    clear: both;
+    width: auto;
+    height: 40px;
+    padding: 10px;
+    border: 3px solid #E3E3E3;
+    text-align:center;
+    //color: #fff;
+   // text-shadow: 0.1em 0.1em #333;
+    background-image: url(../images/footer.png);
+    
+    margin-top: 50px;
+}
+
+#navigation
+{
+   
+    height: 50px;
+    border: 3px solid #E3E3E3;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: 0.1em 0.1em #333;
+    background-color: #003366;
+    
+    
+}
+
+#nav
+{
+    list-style: none;
+}
+
+
+
+#nav li
+{
+     font-family: "Arial";
+    font-size: 16px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    width: 200px;
+    height: 50px;
+}
+
+#nav a:link, nav a:active, nav a:visited
+{
+    display: block;
+    color: #FFFFCC;
+    text-decoration: none;
+    
+     
+}
+
+#nav a:hover
+{
+    color: lightblue;
+}
+
+
+
+
+#P_center
+{
+    text-align: center;
+}
+
+
+
+.tasksTable
+{
+    width: 800px;
+    height: 400px;
+    margin: 10px 10px 10px 0;
+    border: 3px solid #E3E3E3;
+    border-radius: 10px;
+    moz-border-radius: 10px;
+}
+
+.tasksTable tr th, .tasksTable tr td
+{
+    text-align: left;
+    color: white;
+    padding: 0px 5px 0 5px;
+    
+    width: 200px;
+}
+
+.tasksTable img
+{
+    padding: 0px 10px 10px 10px;
+    height: 350px;
+    width: 300px;
+}
+
+
+
+
+
+
+ul.sub1
+{
+    list-style-type: none;
+}
